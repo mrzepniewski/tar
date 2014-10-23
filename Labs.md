@@ -59,8 +59,7 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 
 **Zadanie:**
 
-Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy kod. Testy
-do kodu na Github podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
+* Poprawiamy nasze skrypty.
 
 
 ## Lista
@@ -76,7 +75,7 @@ do kodu na Github podpinamy pod system [Travis](http://docs.travis-ci.com/user/g
 1. Hnatiuk, Ostap
 1. Jadanowski, Łukasz
 1. Jercha, Łukasz
-1. Jóźwiak, Małgorzata. [Zadania 1, 2](https://github.com/mjozwiak/ruby_lab_3)
+1. Jóźwiak, Małgorzata [Zadania 1, 2] (https://github.com/mjozwiak/ruby_lab_3)
 1. Kiełb, Michał
 1. Kisły, Zbigniew
 1. Kliczkowski, Łukasz
@@ -85,13 +84,13 @@ do kodu na Github podpinamy pod system [Travis](http://docs.travis-ci.com/user/g
 1. Makowski, Łukasz
 1. Matuszewski, Jan
 1. Mielnikowski, Łukasz
-1. Mroczek, Przemysław. [Zadania 1, 2](https://github.com/pmroczek/testowanie_repo/tree/master/WyszukiwanieWzorca)
+1. Mroczek, Przemysław [Zadania 1, 2](https://github.com/pmroczek/testowanie_repo/tree/master/WyszukiwanieWzorca)
 1. Niemczyk, Radosław
 1. Nowosada, Wojciech
 1. Ochocki, Krzysztof
 1. Pluskota, Radosław
 1. Płotka, Magdalena
-1. Rzepniewski, Marcin
+1. Rzepniewski, Marcin. [Zadania 1](https://github.com/mrzepniewski/Ruby) [ Zadanie 2](https://docs.google.com/document/d/1jw7cwy8kZYEWmuXQmpPRev2K-_D7a-GhUL6K4P33i8o)
 1. Sadowski, Łukasz
 1. Siepetowski, Marcin. [Zadanie 2](https://github.com/siepet/rubyrubyruby/)
 1. Smogór, Tomasz
